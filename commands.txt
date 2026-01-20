@@ -1,0 +1,8 @@
+ install module :- npm install -g @shelby-protocol/cli
+ init directory :- shelby init
+ context:- shelby context list
+ account :- shelby account list
+ faucet :- https://docs.shelby.xyz/tools/cli
+ watch private key :- cat ~/.shelby/config.yaml
+ upload commands :- shelby upload filename.txt filename.txt -e tomorrow ( more commands - https://docs.shelby.xyz/tools/cli/commands/uploads-and-downloads)
+ upload file direct :- https://explorer.shelby.xyz/shelbynet
