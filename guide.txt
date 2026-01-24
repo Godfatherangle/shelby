@@ -1,0 +1,15 @@
+Step 1 :- Copy command and paste GitHub codespace or terminal of your pc 
+
+Command :-  curl -fsSL https://raw.githubusercontent.com/Godfatherangle/shelby/main/shelby.sh | bash
+
+Step 2 :- Copy and save private key
+
+Command :-  cat ~/.shelby/config.yaml
+
+Step 3 :- get Faucet 
+
+Link - https://docs.shelby.xyz/tools/cli
+
+Step 4 : - Upload file 
+
+Command :- shelby upload filename.txt filename.txt -e tomorrow 
